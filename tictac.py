@@ -124,7 +124,6 @@ while True:
     print('the ' + turn + 'will go first')
     gameplaying = True
 
-
     while gameplaying:
         if turn == 'player':
             drawBoard(theboard)
